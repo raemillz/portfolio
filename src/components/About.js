@@ -3,7 +3,7 @@ import { FaCloudDownload } from "react-icons/lib/fa";
 // import Resume from "../assets/images/resume.pdf";
 
 
-import profilePic from "../assets/images/profilepic.jpg";
+import profilePic from ".../static/profilepic.d6af7a4d.jpg";
 
 const About = () => (
   <section id="about">
@@ -17,7 +17,7 @@ const About = () => (
         <p> Surfer girl turned full stack web developer with a passion for converting courage and creativity into code. Experience in
         Ruby on Rails and JavaScript based programming. I learned teamwork as Division 1 collegiate water polo player,
         and leadership as a surf instructor in Panama. I bring an extensive professional background in sales, specializing in fostering
-        client relationships. 
+        client relationships.
         <br></br>
         <br></br>
         I believe that coding is the language of tomorrow. As a full-stack web developer, I am committed to designing and implementing

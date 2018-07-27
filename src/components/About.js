@@ -3,7 +3,7 @@ import { FaCloudDownload } from "react-icons/lib/fa";
 // import Resume from "../assets/images/resume.pdf";
 
 
-import profilePic from ".../static/profilepic.d6af7a4d.jpg";
+import profilePic from ".../public/static/profilepic.d6af7a4d.jpg";
 
 const About = () => (
   <section id="about">

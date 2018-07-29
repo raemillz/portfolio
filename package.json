@@ -1,6 +1,5 @@
 {
   "name": "gatsby-starter-ceevee",
-  "homepage": "https://cremedelacream.herokuapp.com/",
   "version": "1.0.1",
   "dependencies": {
     "gatsby": "^1.9.145",

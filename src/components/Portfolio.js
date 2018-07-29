@@ -34,7 +34,7 @@ const Portfolio = () => (
                 <div className="link-icon">
                   <FaPlus />
                 </div>
-              </a>
+              </a> 
             </div>
           </div>
 

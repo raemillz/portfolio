@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-ceevee",
-  "homepage": "https://rachelmiller.herokuapp.com/",
+  "homepage": "https://cremedelacream.herokuapp.com/",
   "version": "1.0.1",
   "dependencies": {
     "gatsby": "^1.9.145",
@@ -29,7 +29,6 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "heroku-postbuild": "gatsby build",
     "deploy": "gatsby build && gh-pages -d public -b master",
     "build": "gatsby build",
     "develop": "gatsby develop",

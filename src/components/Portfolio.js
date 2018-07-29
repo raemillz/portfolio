@@ -16,7 +16,7 @@ const Portfolio = () => (
         >
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="http://rachelannemiller.com/creamed-app-client/" title="Crème de la Cream">
+              <a href="https://cremedelacream.herokuapp.com/" title="Crème de la Cream">
                 <img alt="" src={Cream} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">

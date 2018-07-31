@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Ceevee",
+    title: "Rachel Miller's Portfolio",
     author: "Rachel Miller",
     description: "My Portfolio Site"
   },
